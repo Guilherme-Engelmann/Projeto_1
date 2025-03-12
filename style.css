@@ -49,6 +49,7 @@ body{
 
 #divisao{
     background-color: gold;
+    color: black;
     padding: 5px;
  
     display: flex;
