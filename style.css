@@ -33,6 +33,7 @@ body{
 .imagens{
     width: 300px;
     display: flex;
+    margin: 0px;
     
    
 }
@@ -46,6 +47,33 @@ body{
  
 
 }
+
+#divisao{
+    text-align: center;
+    background-color: gold;
+    color: black;
+    padding: 5px;
+    text-align: center;
+ 
+    display: flex;
+}
+#sobre{
+    background-color: black;
+    
+}
+#aliados{
+    background-color: black;
+    padding: 5px;
+ 
+    display: flex;
+}
+#viloes{
+    background-color: black;
+    padding: 5px;
+ 
+    display: flex;
+}
+
 
 #divisao{
     background-color: gold;
